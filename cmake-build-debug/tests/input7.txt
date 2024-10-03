@@ -1,0 +1,4 @@
+load test2.db
+print
+export output7.txt
+quit

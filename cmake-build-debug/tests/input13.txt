@@ -1,0 +1,5 @@
+load test2.db
+find SVO to PKX
+buy DP-6537 22.02.2024
+find SVO to PKX
+quit

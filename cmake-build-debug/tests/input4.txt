@@ -1,0 +1,6 @@
+load test1.db
+delete 1
+save test1.db
+load test1.db
+export output4.txt
+quit

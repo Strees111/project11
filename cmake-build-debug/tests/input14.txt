@@ -1,0 +1,7 @@
+load test2.db
+find LED to UFA
+find LED to IKT
+find LED to SVO
+find LED to SGC
+find LED to KJA
+quit

@@ -1,0 +1,32 @@
+load test2.db
+buy UT-137 23.02.2024
+from SVO to LED on 19.02.2024
+find LED to PKX
+buy Y7-108 22.02.2024
+buy Y7-108 22.02.2024
+buy UT-137 21.02.2024
+buy SU-204 22.02.2024
+buy SU-1489 20.02.2024
+buy DP-6825 19.02.2024
+buy 5N-276 20.02.2024
+add Y7-108 ,  KJA , SVO , 22.02.2024 03:45, 22.02.2024 8:45,  1, 1111 
+add UT-137 ,  SGC , IKT , 21.02.2024 4:00,  21.02.2024 15:00, 1, 1111 
+add SU-204 ,  SVO , PKX , 22.02.2024 21:15, 23.02.2024 9:50,  2, 6666 
+add SU-1489 , KJA , SVO , 20.02.2024 18:15, 21.02.2024 0:30,  1, 1111 
+add DP-6825 , SVO , LED , 19.02.2024 19:00, 19.02.2024 20:30, 1,  222 
+add 5N-276 ,  LED , SVO , 20.02.2024 17:25, 20.02.2024 18:55, 1,  222  
+from KJA to SVO on 22.02.2024
+find KJA to SVO
+find SVO to LED
+buy Y7-108 22.02.2024
+buy UT-137 21.02.2024
+buy SU-204 22.02.2024
+buy SU-1489 20.02.2024
+buy 5N-276 20.02.2024
+clear
+save test3.db
+load test3.db
+find KJA to SVO
+find SVO to LED
+export output16.txt
+quit

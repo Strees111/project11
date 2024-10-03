@@ -1,0 +1,7 @@
+load test2.db
+find UFA to SCG
+find UFA to LED
+find UFA to PKX
+find UFA to SGC
+find UFA to KJA
+quit

@@ -1,0 +1,5 @@
+> Time value is invalid: 13:60
+> Time value is invalid: 24:00
+> Wrong arrival time
+> Wrong time format: 17-00
+> 

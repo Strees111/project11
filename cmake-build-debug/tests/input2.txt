@@ -1,0 +1,7 @@
+load test1.db
+buy DP-6822 20.02.2024
+buy DP-207 19.02.2024
+save test1.db
+load test1.db
+export output2.txt
+quit

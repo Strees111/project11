@@ -1,0 +1,12 @@
+load test2.db
+buy UT-137 23.02.2024
+buy SU-1513 22.02.2024
+buy SU-1513 22.02.2024
+buy SU-1513 22.02.2024
+buy N4-255 20.02.2024
+buy N4-255 20.02.2024
+buy DP-6826 20.02.2024
+buy DP-6826 20.02.2024
+clear
+save test2.db
+quit

@@ -1,0 +1,3 @@
+load test2.db
+schedule LED 20.02.2024
+quit
